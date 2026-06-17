@@ -1,6 +1,6 @@
 # Hi, I'm Amobichukwu Obi 👋
 
-## 🎓 First-Year PhD Researcher at the University of South Bohemia
+## 🎓 PhD Researcher at the University of South Bohemia
 
 ## 🔬 Research Interests
 
