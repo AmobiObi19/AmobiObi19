@@ -1,8 +1,8 @@
 # Hi, I'm Amobichukwu Obi 👋
 
-## 🎓 First-Year PhD Researcher at the University of South Bohemia, Czech Republic
+## 🎓 First-Year PhD Researcher at the University of South Bohemia
 
-🔬 Research Interests
+## 🔬 Research Interests
 
 - Computer Vision
 - Edge AI
@@ -10,29 +10,29 @@
 - Precision Agriculture
 - Deep Learning
 
-🌱 Current Focus
+## 🌱 Current Focus
 
 - Lightweight AI models for agricultural applications
 - Frost stress detection in crops
 - Edge deployment of computer vision systems
 - Explainable machine learning for real-world decision support
 
-💻 Technical Skills
+## 💻 Technical Skills
 
 - Python
 - PyTorch
 - OpenCV
-- Machine Learning.
+- Machine Learning
 - Deep Learning
 - Computer Vision
 
-📚 Current Projects
+## 📚 Current Projects
 
 - MobileNetV2 Optimization for Edge Deployment
 - Fruit Quality Grading using Computer Vision
 - Tomato Disease Detection Research Review
 
-📫 Connect with Me
+## 📫 Connect with Me
 
 LinkedIn: www.linkedin.com/in/obiamobichukwu2020
 Email: oamobichukwu@gmail.com
