@@ -22,7 +22,7 @@ Explainable machine learning for real-world decision support
 Python
 PyTorch
 OpenCV
-Machine Learning
+Machine Learning.
 Deep Learning
 Computer Vision
 
